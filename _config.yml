@@ -1,13 +1,4 @@
 # Site settings
-<<<<<<< HEAD
-title: Ligouhi Blog
-SEOTitle: Ligouhi的博客 | Ligouhi Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: Ligouhi 的个人博客，与你一起发现更大的世界。"
-keyword: "Ligouhi, JavaScript, 前端, 设计"
-url: "https://ligouhi.me"              # your host, for absolute URL
-=======
 title: ligouhi Blog
 SEOTitle: ligouhi的博客 | ligouhi Blog
 header-img: img/home-bg.jpg
@@ -15,7 +6,6 @@ email: ligouhi@gmail.com
 description: "ligouhi的个人博客，与你一起发现更大的世界。"
 keyword: "ligouhi, Web, JavaScript, 前端, 设计"
 url: "https://ligouhi.io"              # your host, for absolute URL
->>>>>>> 02961e88cf0e25fbd9b3e83ac4d2506fadf4e803
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
