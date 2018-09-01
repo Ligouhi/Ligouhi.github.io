@@ -1,13 +1,20 @@
 # Site settings
+<<<<<<< HEAD
 
+=======
+>>>>>>> 65296f388b654c5422f13a34827b40ab8dbfd222
 title: ligouhi Blog
 SEOTitle: ligouhi的博客 | ligouhi Blog
 header-img: img/home-bg.jpg
 email: ligouhi@gmail.com
 description: "ligouhi的个人博客，与你一起发现更大的世界。"
 keyword: "ligouhi, Web, JavaScript, 前端, 设计"
+<<<<<<< HEAD
 url: "https://Ligouhi.io"              # your host, for absolute URL
 
+=======
+url: "https://ligouhi.io"              # your host, for absolute URL
+>>>>>>> 65296f388b654c5422f13a34827b40ab8dbfd222
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.

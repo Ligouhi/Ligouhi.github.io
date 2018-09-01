@@ -1,6 +1,6 @@
 # Ligouhi Blog
 
-### [View Live Ligouhi Blog &rarr;](https:/ligouhi.github.io/)
+### [View Live Ligouhi Blog &rarr;](https://ligouhi.github.io/)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
