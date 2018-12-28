@@ -1,6 +1,6 @@
 # MY BLOG
 
-## This is my blog  [MY Blog](https://LIgohi.github.io)
+## This is my blog  [MY Blog](https://ligouhi.github.io/)
 
 
 
